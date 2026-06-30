@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sterash666/Leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Greedy
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sterash666/Leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
