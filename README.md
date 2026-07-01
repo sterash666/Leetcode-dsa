@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/sterash666/Leetcode-dsa/tree/master/0682-baseball-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sterash666/Leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Greedy
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sterash666/Leetcode-dsa/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
