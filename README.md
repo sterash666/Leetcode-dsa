@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sterash666/Leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/sterash666/Leetcode-dsa/tree/master/0682-baseball-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sterash666/Leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Greedy
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sterash666/Leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Matrix
 |  |
@@ -34,4 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
