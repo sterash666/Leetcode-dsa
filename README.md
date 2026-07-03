@@ -67,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sterash666/Leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sterash666/Leetcode-dsa/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sterash666/Leetcode-dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
