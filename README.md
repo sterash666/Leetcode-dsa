@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sterash666/Leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/sterash666/Leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/sterash666/Leetcode-dsa/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sterash666/Leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/sterash666/Leetcode-dsa/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
